@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: fe7a2cd5201eb0a4782da5dfd7c90ded
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: executioner_sleeping_2_0
+    21300002: executioner_sleeping_2_1
+    21300004: executioner_sleeping_2_2
+    21300006: executioner_sleeping_2_3
+    21300008: executioner_sleeping_2_4
+    21300010: executioner_sleeping_2_5
+    21300012: executioner_sleeping_2_6
+    21300014: executioner_sleeping_2_7
+    21300016: executioner_sleeping_2_8
+    21300018: executioner_sleeping_2_9
+    21300020: executioner_sleeping_2_10
+    21300022: executioner_sleeping_2_11
+    21300024: executioner_sleeping_2_12
+    21300026: executioner_sleeping_2_13
+    21300028: executioner_sleeping_2_14
+    21300030: executioner_sleeping_2_15
+    21300032: executioner_sleeping_2_16
+    21300034: executioner_sleeping_2_17
+    21300036: executioner_sleeping_2_18
+    21300038: executioner_sleeping_2_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: executioner_sleeping_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3277
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_sleeping_2_1
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 3277
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_sleeping_2_2
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 3277
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_sleeping_2_3
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 3277
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_sleeping_2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2458
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_sleeping_2_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2458
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_sleeping_2_6
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2458
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_sleeping_2_7
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 2458
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_sleeping_2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1639
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_sleeping_2_9
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1639
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_sleeping_2_10
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1639
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_sleeping_2_11
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1639
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_sleeping_2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_sleeping_2_13
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 820
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_sleeping_2_14
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 820
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_sleeping_2_15
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 820
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_sleeping_2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_sleeping_2_17
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_sleeping_2_18
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_sleeping_2_19
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1
+        width: 710
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

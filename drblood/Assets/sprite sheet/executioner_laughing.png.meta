@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: 1f111fd2943c8b348a447d6d0371e863
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: laughing_0
+    21300002: laughing_1
+    21300004: laughing_2
+    21300006: laughing_3
+    21300008: laughing_4
+    21300010: laughing_5
+    21300012: laughing_6
+    21300014: laughing_7
+    21300016: laughing_8
+    21300018: laughing_9
+    21300020: laughing_10
+    21300022: laughing_11
+    21300024: laughing_12
+    21300026: laughing_13
+    21300028: laughing_14
+    21300030: laughing_15
+    21300032: laughing_16
+    21300034: laughing_17
+    21300036: laughing_18
+    21300038: laughing_19
+    21300040: laughing_20
+    21300042: laughing_21
+    21300044: laughing_22
+    21300046: laughing_23
+    21300048: laughing_24
+    21300050: laughing_25
+    21300052: laughing_26
+    21300054: laughing_27
+    21300056: laughing_28
+    21300058: laughing_29
+    21300060: executioner_laughing_0
+    21300062: executioner_laughing_1
+    21300064: executioner_laughing_2
+    21300066: executioner_laughing_3
+    21300068: executioner_laughing_4
+    21300070: executioner_laughing_5
+    21300072: executioner_laughing_6
+    21300074: executioner_laughing_7
+    21300076: executioner_laughing_8
+    21300078: executioner_laughing_9
+    21300080: executioner_laughing_10
+    21300082: executioner_laughing_11
+    21300084: executioner_laughing_12
+    21300086: executioner_laughing_13
+    21300088: executioner_laughing_14
+    21300090: executioner_laughing_15
+    21300092: executioner_laughing_16
+    21300094: executioner_laughing_17
+    21300096: executioner_laughing_18
+    21300098: executioner_laughing_19
+    21300100: executioner_laughing_20
+    21300102: executioner_laughing_21
+    21300104: executioner_laughing_22
+    21300106: executioner_laughing_23
+    21300108: executioner_laughing_24
+    21300110: executioner_laughing_25
+    21300112: executioner_laughing_26
+    21300114: executioner_laughing_27
+    21300116: executioner_laughing_28
+    21300118: executioner_laughing_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: executioner_laughing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3002
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_1
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 3002
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_2
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 3002
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_3
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 3002
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_4
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 3002
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2252
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_6
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2252
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_7
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 2252
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_8
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 2252
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_9
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 2252
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1502
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_11
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1502
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_12
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1502
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_13
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1502
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_14
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 1502
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_16
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 752
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_17
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 752
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_18
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 752
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_19
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 752
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_21
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_22
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 2
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_23
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 2
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: executioner_laughing_24
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 2
+        width: 619
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

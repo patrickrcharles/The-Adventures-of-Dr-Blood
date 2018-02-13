@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 10d51e8bfc5e5f44c99ef06157450578
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: drBlood_upside down_idle_2048
+    21300002: drBlood_upside down_idle_2048_0
+    21300004: drBlood_upside down_idle_2048_1
+    21300006: drBlood_upside down_idle_2048_2
+    21300008: drBlood_upside down_idle_2048_3
+    21300010: drBlood_upside down_idle_2048_4
+    21300012: drBlood_upside down_idle_2048_5
+    21300014: drBlood_upside down_idle_2048_6
+    21300016: drBlood_upside down_idle_2048_7
+    21300018: drBlood_upside down_idle_2048_8
+    21300020: drBlood_upside down_idle_2048_9
+    21300022: drBlood_upside down_idle_2048_10
+    21300024: drBlood_upside down_idle_2048_11
+    21300026: drBlood_upside down_idle_2048_12
+    21300028: drBlood_upside down_idle_2048_13
+    21300030: drBlood_upside down_idle_2048_14
+    21300032: drBlood_upside down_idle_2048_15
+    21300034: drBlood_upside down_idle_2048_16
+    21300036: drBlood_upside down_idle_2048_17
+    21300038: drBlood_upside down_idle_2048_18
+    21300040: drBlood_upside down_idle_2048_19
+    21300042: drBlood_upside down_idle_2048_20
+    21300044: drBlood_upside down_idle_2048_21
+    21300046: drBlood_upside down_idle_2048_22
+    21300048: drBlood_upside down_idle_2048_23
+    21300050: drBlood_upside down_idle_2048_24
+    21300052: drBlood_upside down_idle_2048_25
+    21300054: drBlood_upside down_idle_2048_26
+    21300056: drBlood_upside down_idle_2048_27
+    21300058: drBlood_upside down_idle_2048_28
+    21300060: drBlood_upside down_idle_2048_29
+    21300062: drBlood_upside down_idle_2048_30
+    21300064: drBlood_upside down_idle_2048_31
+    21300066: drBlood_upside down_idle_2048_32
+    21300068: drBlood_upside down_idle_2048_33
+    21300070: drBlood_upside down_idle_2048_34
+    21300072: drBlood_upside down_idle_2048_35
+    21300074: drBlood_upside down_idle_2048_36
+    21300076: drBlood_upside down_idle_2048_37
+    21300078: drBlood_upside down_idle_2048_38
+    21300080: drBlood_upside down_idle_2048_39
+    21300082: drBlood_upside down_idle_2048_40
+    21300084: drBlood_upside down_idle_2048_41
+    21300086: drBlood_upside down_idle_2048_42
+    21300088: drBlood_upside down_idle_2048_43
+    21300090: drBlood_upside down_idle_2048_44
+    21300092: drBlood_upside down_idle_2048_45
+    21300094: drBlood_upside down_idle_2048_46
+    21300096: drBlood_upside down_idle_2048_47
+    21300098: drBlood_upside down_idle_2048_48
+    21300100: drBlood_upside down_idle_2048_49
+    21300102: drBlood_upside down_idle_2048_50
+    21300104: drBlood_upside down_idle_2048_51
+    21300106: drBlood_upside down_idle_2048_52
+    21300108: drBlood_upside down_idle_2048_53
+    21300110: drBlood_upside down_idle_2048_54
+    21300112: drBlood_upside down_idle_2048_55
+    21300114: drBlood_upside down_idle_2048_56
+    21300116: drBlood_upside down_idle_2048_57
+    21300118: drBlood_upside down_idle_2048_58
+    21300120: drBlood_upside down_idle_2048_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 2
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: drBlood_upside down_idle_2048_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 6079
+        width: 266
+        height: 653
+      alignment: 9
+      pivot: {x: .34476766, y: 1.00343966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 6075
+        width: 266
+        height: 657
+      alignment: 9
+      pivot: {x: .326856107, y: .997957706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_2
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 6079
+        width: 266
+        height: 653
+      alignment: 9
+      pivot: {x: .332826763, y: 1.00100791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_3
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 6083
+        width: 266
+        height: 649
+      alignment: 9
+      pivot: {x: .338796973, y: .996754348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_4
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 6081
+        width: 267
+        height: 651
+      alignment: 9
+      pivot: {x: .327504605, y: .995228171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_5
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 6081
+        width: 266
+        height: 651
+      alignment: 9
+      pivot: {x: .326856583, y: 1.00010729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5415
+        width: 266
+        height: 654
+      alignment: 9
+      pivot: {x: .31491527, y: .99538523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 5412
+        width: 266
+        height: 657
+      alignment: 9
+      pivot: {x: .31491524, y: .997957706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_8
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 5412
+        width: 263
+        height: 665
+      alignment: 9
+      pivot: {x: .31884256, y: .980026007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_9
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 5406
+        width: 266
+        height: 670
+      alignment: 9
+      pivot: {x: .308944821, y: .988295853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_10
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 5418
+        width: 263
+        height: 653
+      alignment: 9
+      pivot: {x: .30072695, y: .991279721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_11
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 5414
+        width: 263
+        height: 654
+      alignment: 9
+      pivot: {x: .306765467, y: .99538523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 4752
+        width: 266
+        height: 654
+      alignment: 9
+      pivot: {x: .302974313, y: .997813165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_13
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 4757
+        width: 263
+        height: 645
+      alignment: 9
+      pivot: {x: .294688404, y: 1.00475943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_14
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 4745
+        width: 266
+        height: 662
+      alignment: 9
+      pivot: {x: .279092431, y: .998994648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_15
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 4754
+        width: 263
+        height: 652
+      alignment: 9
+      pivot: {x: .282610863, y: .994468629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_16
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 4753
+        width: 263
+        height: 654
+      alignment: 9
+      pivot: {x: .294687957, y: .990528524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_17
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 4754
+        width: 263
+        height: 652
+      alignment: 9
+      pivot: {x: .276572347, y: .994468629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 4096
+        width: 263
+        height: 647
+      alignment: 9
+      pivot: {x: .282611132, y: .993380666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_19
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 4089
+        width: 263
+        height: 658
+      alignment: 9
+      pivot: {x: .276572585, y: .989959836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_20
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 4098
+        width: 263
+        height: 649
+      alignment: 9
+      pivot: {x: .282611102, y: .989413559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_21
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 4102
+        width: 263
+        height: 645
+      alignment: 9
+      pivot: {x: .2705338, y: .992448688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_22
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 4089
+        width: 263
+        height: 658
+      alignment: 9
+      pivot: {x: .2705338, y: .989959836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_23
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 4096
+        width: 263
+        height: 651
+      alignment: 9
+      pivot: {x: .258456737, y: .99278903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3418
+        width: 263
+        height: 665
+      alignment: 9
+      pivot: {x: .264495403, y: .994355381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_25
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 3430
+        width: 263
+        height: 653
+      alignment: 9
+      pivot: {x: .264495283, y: .988847315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 3432
+        width: 259
+        height: 651
+      alignment: 9
+      pivot: {x: .248594537, y: .995228589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_27
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 3430
+        width: 263
+        height: 651
+      alignment: 9
+      pivot: {x: .25241819, y: 1.00010765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_28
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 3426
+        width: 260
+        height: 655
+      alignment: 9
+      pivot: {x: .243453279, y: .999478161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_29
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 3418
+        width: 259
+        height: 665
+      alignment: 9
+      pivot: {x: .242462754, y: .99674356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2764
+        width: 263
+        height: 654
+      alignment: 9
+      pivot: {x: .246379659, y: .99538523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_31
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2769
+        width: 260
+        height: 653
+      alignment: 9
+      pivot: {x: .243453279, y: .988847315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_32
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2762
+        width: 263
+        height: 658
+      alignment: 9
+      pivot: {x: .246379659, y: .992373765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_33
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 2762
+        width: 263
+        height: 658
+      alignment: 9
+      pivot: {x: .25241819, y: .994787335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_34
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2766
+        width: 260
+        height: 656
+      alignment: 9
+      pivot: {x: .255669683, y: .989032626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_35
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 2771
+        width: 260
+        height: 647
+      alignment: 9
+      pivot: {x: .261777908, y: .995835662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2117
+        width: 260
+        height: 641
+      alignment: 9
+      pivot: {x: .261778057, y: .995521307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_37
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2096
+        width: 260
+        height: 670
+      alignment: 9
+      pivot: {x: .267886221, y: .983555138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_38
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2114
+        width: 263
+        height: 641
+      alignment: 9
+      pivot: {x: .282611102, y: .995521307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_39
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2117
+        width: 263
+        height: 641
+      alignment: 9
+      pivot: {x: .2705338, y: .997998893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_40
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 2104
+        width: 263
+        height: 654
+      alignment: 9
+      pivot: {x: .282610863, y: .997813582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_41
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 2103
+        width: 263
+        height: 653
+      alignment: 9
+      pivot: {x: .276572347, y: .998575926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_42
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1443
+        width: 263
+        height: 654
+      alignment: 9
+      pivot: {x: .293965906, y: .990223527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_43
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1443
+        width: 263
+        height: 664
+      alignment: 9
+      pivot: {x: .293965846, y: .978307128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_44
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1440
+        width: 263
+        height: 667
+      alignment: 9
+      pivot: {x: .299689114, y: .973899305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_45
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1453
+        width: 260
+        height: 657
+      alignment: 9
+      pivot: {x: .291588426, y: .971947968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_46
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1443
+        width: 263
+        height: 664
+      alignment: 9
+      pivot: {x: .305412501, y: .976040006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_47
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1448
+        width: 263
+        height: 657
+      alignment: 9
+      pivot: {x: .299689114, y: .976530194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_48
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 779
+        width: 263
+        height: 669
+      alignment: 9
+      pivot: {x: .322581768, y: .976982176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_49
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 779
+        width: 283
+        height: 654
+      alignment: 9
+      pivot: {x: .292570502, y: 1.0017314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_50
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 771
+        width: 263
+        height: 662
+      alignment: 9
+      pivot: {x: .31685856, y: .993394375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_51
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 787
+        width: 263
+        height: 652
+      alignment: 9
+      pivot: {x: .322581708, y: .987110138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_52
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 779
+        width: 267
+        height: 662
+      alignment: 9
+      pivot: {x: .325239658, y: .977478385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_53
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 769
+        width: 266
+        height: 664
+      alignment: 9
+      pivot: {x: .324583113, y: .994175017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 116
+        width: 265
+        height: 656
+      alignment: 9
+      pivot: {x: .323790193, y: .991805315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_55
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 112
+        width: 266
+        height: 667
+      alignment: 9
+      pivot: {x: .340411425, y: .983694553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_56
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 115
+        width: 266
+        height: 657
+      alignment: 9
+      pivot: {x: .329772025, y: .993210673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_57
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 115
+        width: 263
+        height: 665
+      alignment: 9
+      pivot: {x: .349351317, y: .980893433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_58
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 115
+        width: 263
+        height: 657
+      alignment: 9
+      pivot: {x: .338591009, y: .991056919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drBlood_upside down_idle_2048_59
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 115
+        width: 266
+        height: 656
+      alignment: 9
+      pivot: {x: .351050824, y: .989648044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

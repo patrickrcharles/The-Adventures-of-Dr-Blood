@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: 6732a6f69c8d1604a99de1b64c816823
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: db_slide_5f
+    21300002: db_slide_5f_0
+    21300004: db_slide_5f_1
+    21300006: db_slide_5f_2
+    21300008: db_slide_5f_3
+    21300010: db_slide_5f_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: db_slide_5f_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 521
+        width: 342
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: db_slide_5f_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 521
+        width: 342
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: db_slide_5f_2
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 521
+        width: 342
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: db_slide_5f_3
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 521
+        width: 342
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: db_slide_5f_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 342
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
